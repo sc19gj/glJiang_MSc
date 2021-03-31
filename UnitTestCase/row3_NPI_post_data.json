@@ -1,0 +1,1 @@
+{"output":"..mini_line_T.figure...mini_line_T_box.figure..","outputs":[{"id":"mini_line_T","property":"figure"},{"id":"mini_line_T_box","property":"figure"}],"inputs":[{"id":"chart_T","property":"value","value":"NPI"},{"id":"chart_T_type","property":"value","value":"Bar"},{"id":"chart_T_sort","property":"value","value":"asc"}],"changedPropIds":["chart_T.value"]}

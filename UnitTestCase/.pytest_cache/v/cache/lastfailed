@@ -1,0 +1,5 @@
+{
+  "testFileType.py::TestFileType::test_file_content_type": true,
+  "testMain.py::TestFileType::test_file_content_type": true,
+  "testMain.py::TestRowData::test_distinct_value_uniqueness": true
+}
