@@ -52,8 +52,8 @@ def distributions(datatest_make):
 #------upload file function----
 #------------------------------
 def up_file_func(content):
-#    path=os.getcwd() + r'\testdata.csv'     # using in Windows OS: upload file path and file name
-    path=os.getcwd() + '/testdata.csv'     # using in Mac OS: upload file path and file name
+    path=os.getcwd() + r'\testdata.csv'     # using in Windows OS: upload file path and file name
+#    path=os.getcwd() + '/testdata.csv'     # using in Mac OS: upload file path and file name
 
     content_type, content_string = content.split(',')
     decoded = base64.b64decode(content_string)
